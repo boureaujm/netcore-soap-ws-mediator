@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZvnIx2H/ttiy3p8pjUVFoyK9Hrmr8mBelZqgqk+wc/b0r23j7r244doNZ/dDQV02SNlPCl5uUU0IAf8+QfYuuw==",
+  "success": true,
+  "projectFilePath": "/home/vorko/Documents/jm/projects/netcore_soap_ws/WebApplicationLibrary/WebApplicationLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/vorko/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
